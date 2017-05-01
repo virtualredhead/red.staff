@@ -1,0 +1,16 @@
+{
+    "name": "red/staff-data",
+    "description": "Redhead Design Studio Staff",
+    "type": "library",
+    "authors": [
+        {
+            "name": "redhead design studio",
+            "email": "info@redhead.studio"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Red\\StaffData\\": "src/"
+        }
+    }
+}
