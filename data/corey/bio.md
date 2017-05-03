@@ -1,5 +1,5 @@
 ---
-name: Corey Marie
+name: Corey Marie Kitley
 title: Designer
 role: UI Design, Web Development
 
