@@ -2,7 +2,7 @@
 name: Jen Estill
 title: Principal, Creative Director
 role: Strategy and conceptualization
-feed: http://blog.redhead.studio/author/jen-estill/feed/
+feed: http://observations.redhead.studio/author/jen-estill/feed/
 
 ---
 
