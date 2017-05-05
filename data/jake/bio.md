@@ -19,5 +19,5 @@ I'm a fan of open source software. I like open standards and interoperability.
 
 I like creative problem-solving with computers. I like making clever, elegant
 solutions to problems and building structured systems that organize information.
-I'm pretty good with a yoyo. I can pogo stick pretty good. I'm not a pro, but I
+I'm pretty good with a yo-yo. I can pogo stick pretty good. I'm not a pro, but I
 can solve a Rubik’s Cube pretty fast. I think math is cool.
