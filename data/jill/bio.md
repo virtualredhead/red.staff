@@ -2,6 +2,7 @@
 name: Jill Freitas
 title: Designer
 role: Creative Problem Solving, Art Direction
+feed: http://observations.redhead.studio/author/jill-freitas/feed/
 
 ---
 

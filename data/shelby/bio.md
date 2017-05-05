@@ -2,6 +2,7 @@
 name: Shelby Komar
 title: Social Media Manager
 role: Community Engagement, Channel Development
+feed: http://observations.redhead.studio/author/shelby-komar/feed/
 
 ---
 
