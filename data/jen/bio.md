@@ -24,7 +24,7 @@ is that?
 I'm a notoriously scatter-minded person. Ideas zoom around my head with an
 alarming frequency. When one is about to burst (most likely out of my mouth,
 probably to the annoyance of my staff) I actually feel it bumping around
-somewhere in the lower right side of my head?. It's like the idea is rifling
+somewhere in the lower right side of my head. It's like the idea is rifling
 through closets to pack a suitcase for the trip. I wonder if regular people
 physically feel parts of their brain working. Is that a thing or is it my
 imagination?
