@@ -9,7 +9,7 @@ role: Back-end web development, web strategy
 I really didn’t go to school, but I've done alright figuring things out for
 myself. I worked at the LCC Computer lab for a while. I took some film classes,
 but not very seriously. I spend a lot of time on Github, I follow a number of
-developers that I think are doing good work. I pay attention to the FIG
+developers who I think are doing good work. I pay attention to the FIG
 (framework interop group), and other standards bodies. I waste a lot of time on
 IRC.
 
