@@ -17,7 +17,7 @@ At Redhead I write custom content management systems and web applications,
 primarily with PHP. I administrate our servers as well, mostly Linux machines.
 I'm a fan of open source software. I like open standards and interoperability.
 
-I like creative problem solving with computers. I like making clever, elegant
+I like creative problem-solving with computers. I like making clever, elegant
 solutions to problems and building structured systems that organize information.
 I'm pretty good with a yoyo. I can pogo stick pretty good. I'm not a pro, but I
 can solve a Rubik’s Cube pretty fast. I think math is cool.
