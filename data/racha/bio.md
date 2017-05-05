@@ -8,7 +8,7 @@ feed: http://observations.redhead.studio/author/racha-kardahji/feed/
 
 The creative field was not at the top of my list when I was thinking about the inevitable adulting phase of life. My thinking was far from it, actually. I imagined being part of the United Nations, saving the world and eliminating hunger or something pretty profound. I have always enjoyed solving problems and helping people.
 
-I started school with the intention of being a political science major, then eventually landed with a bachelor's degree in marketing and management, with a minor in business administration from Northwood University. I went back for a master’s of business administration with a concentration in strategic management from Davenport University. 
+I started school with the intention of being a political science major, but eventually landed with a bachelor's degree in marketing and management, with a minor in business administration from Northwood University. I went back for a master’s of business administration with a concentration in strategic management from Davenport University. 
 
 Luckily, Redhead allows me to work on projects that are fulfilling, challenging, and have an impact on the world around me—whether it's a campaign to end the stigma of breastfeeding, a project promoting the benefits of maintaining clean lakes or helping the Refugee Development Center.
 
