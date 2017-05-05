@@ -8,7 +8,7 @@ feed: http://observations.redhead.studio/author/jill-freitas/feed/
 
 The easy answer: I’m a designer. I make things pretty. I design anything from marketing materials—like magazines, posters, and digital promotions—to completely overhauling a client’s identity (i.e. logo/brand). Oh, and the beloved annual reports. And websites. Don't forget those. 
 
-The academic answer: I am a creative problem-solver. I work with my teammates to create engaging materials for our clients. Teamwork really does make the dream work. We all come together with our education and life experiences to create powerful and, frankly, beautiful, pieces. We are purpose-driven.
+The academic answer: I am a creative problem solver. I work with my teammates to create engaging materials for our clients. Teamwork really does make the dream work. We all come together with our education and life experiences to create powerful and, frankly, beautiful, pieces. We are purpose-driven.
 
 I like that our industry is fast paced. Keeps things interesting and keeps you thinking. So with that, I love the large scope of projects that come in. Variety, yo.
 
