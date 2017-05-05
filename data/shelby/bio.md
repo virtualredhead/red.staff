@@ -6,7 +6,7 @@ feed: http://observations.redhead.studio/author/shelby-komar/feed/
 
 ---
 
-Ninety-nine percent of the time I ask the boss lady what the restrictions are on how to do something she says, “Up to you.” I get to mess up and, usually, it’s OK. Because in the creative world “messing up” is actually just a part of the process. I get to work on really cool projects that affect real people in meaningful ways. Also, I get to wear jeans and Vans to work and it's totally acceptable.  Oh—no cubicles rocks. It’s good for me, but bad for everyone because they have to listen to my not-so-good jokes. Sorry guys.
+Ninety-nine percent of the time I ask the boss lady what the restrictions are on how to do something, she says, “Up to you.” I get to mess up and, usually, it’s OK. Because in the creative world “messing up” is actually just a part of the process. I get to work on really cool projects that affect real people in meaningful ways. Also, I get to wear jeans and Vans to work and it's totally acceptable.  Oh—no cubicles rocks. It’s good for me, but bad for everyone because they have to listen to my not-so-good jokes. Sorry guys.
 
 I’m almost done being a student at MSU, and I will graduate in May 2018 with a bachelor's degree in advertising and a minor in analytics. I read AdAge and AdWeek more than my textbooks. Thank God all my prerequisites are done because I truly hate 600-person lecture halls and 100-question exams on agriculture in the 1940s.
 
