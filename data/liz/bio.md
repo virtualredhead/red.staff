@@ -1,7 +1,7 @@
 ---
 name: Liz
 title: Designer
-role: ???
+role: Creative Problem Solving
 
 ---
 By day, I brand companies and create marketing collateral and design websites
