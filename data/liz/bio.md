@@ -1,5 +1,5 @@
 ---
-name: Liz
+name: Liz Welling
 title: Designer
 role: Creative Problem Solving
 
