@@ -1,8 +1,9 @@
 ---
 name: Shelby Komar
-title: Social Media Manager
-role: Community Engagement, Channel Development
+title: Redhead Alum
+role: MSU, degree expected May 2018
 feed: http://observations.redhead.studio/author/shelby-komar/feed/
+alum: true
 
 ---
 
