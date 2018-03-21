@@ -1,5 +1,5 @@
 ---
-name: Jill Freitas
+name: Jill Zelenski
 title: Designer
 role: Creative Problem Solving, Art Direction
 feed: http://observations.redhead.studio/author/jill-freitas/feed/
