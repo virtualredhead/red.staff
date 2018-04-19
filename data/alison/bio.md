@@ -1,7 +1,8 @@
 ---
 name: Alison Mass
-title: Social Media
+title: Redhead Alum
 role: MSU, degree expected Spring 2018
+alum: true
 
 ---
 
