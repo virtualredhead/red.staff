@@ -2,6 +2,7 @@
 name: Liz Welling
 title: Designer
 role: Creative Problem Solving
+alum: true
 
 ---
 By day, I brand companies and create marketing collateral and design websites
