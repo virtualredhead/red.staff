@@ -5,5 +5,7 @@ jake
 linda
 janice
 cindy
+rosie
+allison
 shelby
 alison
