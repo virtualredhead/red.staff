@@ -1,7 +1,7 @@
 ---
 name: Jill Zelenski
-title: Designer
-role: Creative Problem Solving, Art Direction
+title: Art Director
+role: Creative Problem Solving, Design
 feed: http://observations.redhead.studio/author/jill-freitas/feed/
 
 ---
