@@ -1,5 +1,5 @@
 ---
-name: Rosie Schrag
+name: Rosie Tulgetske
 title: Designer
 role: Creative Problem Solving, Illustration
 
