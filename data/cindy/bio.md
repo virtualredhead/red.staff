@@ -3,6 +3,7 @@ name: Cindy Ochoa
 title: Front-end Development
 role: MSU, degree expected 2020
 feed: http://observations.redhead.studio/author/cindyochoa/feed/
+alum: true
 
 ---
 
