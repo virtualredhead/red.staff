@@ -45,9 +45,16 @@ adore, and way too many projects. We are a family of creative, project-driven
 people. Somebody's always making something. If there isn't a metaphorical
 explosion somewhere in my home, something is surely wrong.
 
+I also co-host [The Speak Easy Podcast][SE], where I talk honestly about the
+challenges women leaders in the creative industry face. We create a community
+where leaders can support one another and abandon the mantra that they have to
+smile and pretend to have it all together, even when they don't.
+
 At the office, I do the usual things—develop strategies for clients, direct the
 work. I work hard to combine a client's business goal with some creativity and
 innovation to help them develop messages that are heartfelt or humorous or
 inspiring, yet still smart. Sometimes I write earth-shattering copy. Often I
 mentor young creatives. Frequently I obsess over the bar cart.
+
+[SE]: https://thespeakeasypodcast.com
 
