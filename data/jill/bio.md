@@ -3,6 +3,7 @@ name: Jill Zelenski
 title: Art Director
 role: Creative Problem Solving, Design
 feed: http://observations.redhead.studio/author/jill-freitas/feed/
+alum: true
 
 ---
 
