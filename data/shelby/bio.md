@@ -2,7 +2,7 @@
 name: Shelby Komar
 title: Redhead Alum
 role: MSU, degree expected May 2018
-feed: http://observations.redhead.studio/author/shelby-komar/feed/
+feed: https://observations.redhead.studio/author/shelby-komar/feed/
 alum: true
 
 ---
