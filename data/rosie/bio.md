@@ -2,6 +2,7 @@
 name: Rosie Tulgetske
 title: Designer
 role: Creative Problem Solving, Illustration
+feed: https://observations.redhead.studio/author/rosie-tulgetske/feed/
 
 ---
 
