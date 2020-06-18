@@ -2,6 +2,7 @@
 name: Lynn Morris
 title: Designer
 role: Creative problem solving, user experience
+alum: true
 
 ---
 
