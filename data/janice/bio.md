@@ -1,6 +1,7 @@
 ---
 name: Janice Gervais
 title: Web Strategist
+pronoun: she/her
 role: User Experience, CMS development
 
 ---
