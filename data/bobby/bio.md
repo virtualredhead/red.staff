@@ -1,6 +1,7 @@
 ---
 name: Bobby Earls
 title: Executive Assistant
+pronouns: he/his
 role: Organization, Coordination
 
 ---
