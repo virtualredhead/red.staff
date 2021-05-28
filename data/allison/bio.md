@@ -1,6 +1,6 @@
 ---
 name: Allison Raeck
-title: Writer
+title: Content Director
 role: Social Media Management, Content Development
 pronouns: she/her
 feed: https://observations.redhead.studio/author/allison-raeck/feed/
