@@ -1,7 +1,7 @@
 ---
 name: Linda Estill
 title: Bookkeeper
-ponouns: she/her
+pronouns: she/her
 role: Finance, Human Resources
 
 ---
