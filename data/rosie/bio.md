@@ -1,6 +1,7 @@
 ---
 name: Rosie Tulgetske
-title: Designer
+title: Design Director
+pronouns: she/her
 role: Creative Problem Solving, Illustration
 feed: https://observations.redhead.studio/author/rosie-tulgetske/feed/
 
