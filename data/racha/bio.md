@@ -1,6 +1,7 @@
 ---
 name: Racha Kardahji
 title: Account Services Director
+pronouns: she/her
 role: Client strategy, project development
 feed: https://observations.redhead.studio/author/racha-kardahji/feed/
 
