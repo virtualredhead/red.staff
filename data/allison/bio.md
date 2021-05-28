@@ -2,6 +2,7 @@
 name: Allison Raeck
 title: Writer
 role: Social Media Management, Content Development
+pronouns: she/her
 feed: https://observations.redhead.studio/author/allison-raeck/feed/
 
 ---
