@@ -1,6 +1,7 @@
 ---
 name: Zach Komorowski
-title: Creative Intern
+title: Writer
+pronouns: he/his
 role: MSU, Degree Expected December 2020
 
 ---
