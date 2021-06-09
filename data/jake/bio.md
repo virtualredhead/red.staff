@@ -1,7 +1,7 @@
 ---
 name: Jake Johns
 title: Web Development Director
-pronouns: he/his
+pronouns: he/him
 role: Back-end web development, web strategy
 
 ---
