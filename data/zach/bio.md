@@ -1,7 +1,7 @@
 ---
 name: Zach Komorowski
 title: Writer
-pronouns: he/his
+pronouns: he/him
 role: MSU, Degree Expected December 2020
 
 ---
