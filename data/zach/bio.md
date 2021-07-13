@@ -2,7 +2,7 @@
 name: Zach Komorowski
 title: Writer
 pronouns: he/him
-role: MSU, Degree Expected December 2020
+role: Content Development, Web Development Support
 
 ---
 
