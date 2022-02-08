@@ -1,6 +1,6 @@
 ---
 name: Bobby Earls
-title: Executive Assistant
+title: Studio Manager
 pronouns: he/him
 role: Organization, Coordination
 
