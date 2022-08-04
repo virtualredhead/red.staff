@@ -26,9 +26,9 @@ chance to help our clients make their corner of the world smarter, more
 beautiful, and more equitable. Ultimately, I work to make sure our clients’
 missions are heard and that their visions are realized.
 
-Prior to Redhead, I ran my own graphic design and marketing company into the
+Prior to Redhead, I ran my own graphic design and marketing company in the
 Detroit area which I started early on in my career. What drove me was the
-opportunity to get to know my clients and their business in a variety areas from
+opportunity to get to know my clients and their business in a variety of areas from
 their operations, to office design, and all the way through to their marketing.
 I found startups to be exciting to work with as their passion was electric and I
 enjoyed the idea of helping them build their vision. Through the process of
